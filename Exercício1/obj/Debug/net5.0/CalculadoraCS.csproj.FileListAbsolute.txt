@@ -1,0 +1,64 @@
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\bin\Debug\net5.0\CalculadoraCS.exe
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\bin\Debug\net5.0\CalculadoraCS.deps.json
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\bin\Debug\net5.0\CalculadoraCS.runtimeconfig.json
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\bin\Debug\net5.0\CalculadoraCS.runtimeconfig.dev.json
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\bin\Debug\net5.0\CalculadoraCS.dll
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\bin\Debug\net5.0\ref\CalculadoraCS.dll
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\bin\Debug\net5.0\CalculadoraCS.pdb
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\obj\Debug\net5.0\CalculadoraCS.csprojAssemblyReference.cache
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\obj\Debug\net5.0\CalculadoraCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\obj\Debug\net5.0\CalculadoraCS.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\obj\Debug\net5.0\CalculadoraCS.AssemblyInfo.cs
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\obj\Debug\net5.0\CalculadoraCS.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\obj\Debug\net5.0\CalculadoraCS.dll
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\obj\Debug\net5.0\ref\CalculadoraCS.dll
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\obj\Debug\net5.0\CalculadoraCS.pdb
+D:\Dev\Visual Studio Repo\Exercício1\Exercício1\obj\Debug\net5.0\CalculadoraCS.genruntimeconfig.cache
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\bin\Debug\net5.0\CalculadoraCS.exe
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\bin\Debug\net5.0\CalculadoraCS.deps.json
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\bin\Debug\net5.0\CalculadoraCS.runtimeconfig.json
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\bin\Debug\net5.0\CalculadoraCS.runtimeconfig.dev.json
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\bin\Debug\net5.0\CalculadoraCS.dll
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\bin\Debug\net5.0\ref\CalculadoraCS.dll
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\bin\Debug\net5.0\CalculadoraCS.pdb
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\obj\Debug\net5.0\CalculadoraCS.csprojAssemblyReference.cache
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\obj\Debug\net5.0\CalculadoraCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\obj\Debug\net5.0\CalculadoraCS.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\obj\Debug\net5.0\CalculadoraCS.AssemblyInfo.cs
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\obj\Debug\net5.0\CalculadoraCS.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\obj\Debug\net5.0\CalculadoraCS.dll
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\obj\Debug\net5.0\ref\CalculadoraCS.dll
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\obj\Debug\net5.0\CalculadoraCS.pdb
+D:\Dev\Visual Studio Repo\CalculadoraCS\Exercício1\obj\Debug\net5.0\CalculadoraCS.genruntimeconfig.cache
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\bin\Debug\net5.0\CalculadoraCS.exe
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\bin\Debug\net5.0\CalculadoraCS.deps.json
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\bin\Debug\net5.0\CalculadoraCS.runtimeconfig.json
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\bin\Debug\net5.0\CalculadoraCS.runtimeconfig.dev.json
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\bin\Debug\net5.0\CalculadoraCS.dll
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\bin\Debug\net5.0\ref\CalculadoraCS.dll
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\bin\Debug\net5.0\CalculadoraCS.pdb
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\obj\Debug\net5.0\CalculadoraCS.csproj.AssemblyReference.cache
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\obj\Debug\net5.0\CalculadoraCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\obj\Debug\net5.0\CalculadoraCS.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\obj\Debug\net5.0\CalculadoraCS.AssemblyInfo.cs
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\obj\Debug\net5.0\CalculadoraCS.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\obj\Debug\net5.0\CalculadoraCS.dll
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\obj\Debug\net5.0\ref\CalculadoraCS.dll
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\obj\Debug\net5.0\CalculadoraCS.pdb
+D:\Dev\Visual Studio Repo\calculadora-cs\Exercício1\obj\Debug\net5.0\CalculadoraCS.genruntimeconfig.cache
+D:\Dev\cs-calculator\Exercício1\bin\Debug\net5.0\CalculadoraCS.exe
+D:\Dev\cs-calculator\Exercício1\bin\Debug\net5.0\CalculadoraCS.deps.json
+D:\Dev\cs-calculator\Exercício1\bin\Debug\net5.0\CalculadoraCS.runtimeconfig.json
+D:\Dev\cs-calculator\Exercício1\bin\Debug\net5.0\CalculadoraCS.runtimeconfig.dev.json
+D:\Dev\cs-calculator\Exercício1\bin\Debug\net5.0\CalculadoraCS.dll
+D:\Dev\cs-calculator\Exercício1\bin\Debug\net5.0\ref\CalculadoraCS.dll
+D:\Dev\cs-calculator\Exercício1\bin\Debug\net5.0\CalculadoraCS.pdb
+D:\Dev\cs-calculator\Exercício1\obj\Debug\net5.0\CalculadoraCS.csproj.AssemblyReference.cache
+D:\Dev\cs-calculator\Exercício1\obj\Debug\net5.0\CalculadoraCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\cs-calculator\Exercício1\obj\Debug\net5.0\CalculadoraCS.AssemblyInfoInputs.cache
+D:\Dev\cs-calculator\Exercício1\obj\Debug\net5.0\CalculadoraCS.AssemblyInfo.cs
+D:\Dev\cs-calculator\Exercício1\obj\Debug\net5.0\CalculadoraCS.csproj.CoreCompileInputs.cache
+D:\Dev\cs-calculator\Exercício1\obj\Debug\net5.0\CalculadoraCS.dll
+D:\Dev\cs-calculator\Exercício1\obj\Debug\net5.0\ref\CalculadoraCS.dll
+D:\Dev\cs-calculator\Exercício1\obj\Debug\net5.0\CalculadoraCS.pdb
+D:\Dev\cs-calculator\Exercício1\obj\Debug\net5.0\CalculadoraCS.genruntimeconfig.cache
