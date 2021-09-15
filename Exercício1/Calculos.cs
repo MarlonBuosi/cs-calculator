@@ -15,10 +15,10 @@ namespace Exercício1
         private float porcentagemInt;
         private float nase;
         private float altura;
-        public int Fatorial()
+        public long Fatorial()
         {
             int cont;
-            int resultado;
+            long resultado;
 
             cont = numero - 1;
             resultado = numero * cont;
